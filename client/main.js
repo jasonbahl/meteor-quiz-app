@@ -14,5 +14,5 @@ const app = createApp(context);
 
 app.loadModule(coreModule);
 app.loadModule(usersModule);
-app.loadModule(itemsModule);
+app.loadModule(quizesModule);
 app.init();

@@ -1,7 +1,7 @@
 import React from 'react';
 import {mount} from 'react-mounter';
 import Layout from './components/MainLayout.jsx';
-import ItemList from '../quizes/components/QuizList.jsx';
+import QuizList from '../quizes/components/QuizList.jsx';
 
 export default function (injectDeps, {FlowRouter}) {
 

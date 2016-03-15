@@ -17,4 +17,8 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 standard-minifier-css
 standard-minifier-js
 meteortoys:allthings
-kadira:flow-router
+kadira:flow-router-ssr
+reactive-dict
+audit-argument-checks
+check
+random
