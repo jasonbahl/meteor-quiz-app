@@ -1,0 +1,8 @@
+{
+	"galaxy.meteor.com": {
+		"env": {
+			"ROOT_URL": "http://schrute.rachelbahl.com",
+			"MONGO_URL": "mongodb://jasonbahl:jbutt#123@ds047950.mlab.com:47950/rachel-quiz-app"
+		}
+	}
+}
